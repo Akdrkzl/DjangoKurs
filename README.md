@@ -1,1 +1,1 @@
-5 HAZİRAN BACKEND TEKRAR GRUBU İÇİN YAPILMIŞ BİR PROJE
+5 HAZİRAN GRUBU İÇİN DJANGO İLE YAPILMIŞ BİR PROJE http://kadirrr.pythonanywhere.com/
